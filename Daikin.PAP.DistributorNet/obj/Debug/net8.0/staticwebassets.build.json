@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "daUmJHrtYg5GjL+Liysj/15A3RoLsHzdxuF7piCqi6M=",
+  "Source": "Daikin.PAP.DistributorNet.API",
+  "BasePath": "_content/Daikin.PAP.DistributorNet.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

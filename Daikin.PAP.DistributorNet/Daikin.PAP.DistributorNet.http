@@ -1,0 +1,6 @@
+@Daikin.PAP.DistributorNet_HostAddress = http://localhost:5155
+
+GET {{Daikin.PAP.DistributorNet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
